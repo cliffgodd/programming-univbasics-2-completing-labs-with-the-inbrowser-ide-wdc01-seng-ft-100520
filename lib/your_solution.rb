@@ -1,3 +1,5 @@
-# Write your solution here
+solution = "Hello World"
+
+
 
 # This file should output "Hello World!" using a puts statement
